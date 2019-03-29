@@ -1,0 +1,3 @@
+[submodule "HoneyBadgerMPC"]
+	path = HoneyBadgerMPC
+	url = git@github.com:initc3/HoneyBadgerMPC.git
