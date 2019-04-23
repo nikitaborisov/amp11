@@ -1,0 +1,6 @@
+[submodule "HoneyBadgerMPC"]
+	path = HoneyBadgerMPC
+	url = git@github.com:initc3/HoneyBadgerMPC.git
+[submodule "cuda_outer_product_sum"]
+	path = cuda_outer_product_sum
+	url = https://gitlab.engr.illinois.edu/ccheng32/cuda_outer_product_sum

@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+cuda_outer_product_sum.cpp
