@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  amp11:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./src:/usr/src/amp11/src
