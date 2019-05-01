@@ -38,6 +38,6 @@ RUN cd relic-target && \
     make
 RUN cd relic-target && \
     make install
-#RUN ldconfig
+RUN ldconfig
 # Define default command
 CMD ["bash"]
